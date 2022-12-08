@@ -1,0 +1,101 @@
+﻿  main.cpp
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(11,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(126,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(91,69): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(100,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(103,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(104,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(134,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(139,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(186,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(187,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(197,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(198,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\shader.hpp(28,1): warning C4129: '#': unrecognized character escape sequence
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\shader.hpp(63,1): warning C4129: '#': unrecognized character escape sequence
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(51,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(97,1): warning C4305: '=': truncation from 'int' to '_Ty'
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(97,22): warning C4309: '=': truncation of constant value
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(112,1): warning C4305: '=': truncation from 'int' to '_Ty'
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(112,22): warning C4309: '=': truncation of constant value
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\main.cpp(13,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  renderer.cpp
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\shader.hpp(28,1): warning C4129: '#': unrecognized character escape sequence
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\shader.hpp(63,1): warning C4129: '#': unrecognized character escape sequence
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(11,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(126,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(91,69): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(100,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(103,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(104,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(134,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(139,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(186,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(187,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(197,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\figure.h(198,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(51,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(97,1): warning C4305: '=': truncation from 'int' to '_Ty'
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(97,22): warning C4309: '=': truncation of constant value
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(112,1): warning C4305: '=': truncation from 'int' to '_Ty'
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.h(112,22): warning C4309: '=': truncation of constant value
+C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\lr6\renderer.cpp(14,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  lr6.vcxproj -> C:\Users\Asus\Desktop\Поглиблена 3d графіка\lr6\x64\Debug\lr6.exe
